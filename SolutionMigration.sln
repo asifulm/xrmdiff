@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xrmdiff.console", "xrmdiff.console.csproj", "{B8BAFCDC-00E0-4B60-AC82-523D4C65EBC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xrm.Solution.Migration", "Xrm.Solution.Migration\Xrm.Solution.Migration.csproj", "{71078483-F06A-4EBA-BC11-842D26DF3ED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xrm.Solution.MEF", "Xrm.Solution.MEF\Xrm.Solution.MEF.csproj", "{0AE8F6C3-BC67-4C40-9113-67769AEDF676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8BAFCDC-00E0-4B60-AC82-523D4C65EBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BAFCDC-00E0-4B60-AC82-523D4C65EBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BAFCDC-00E0-4B60-AC82-523D4C65EBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BAFCDC-00E0-4B60-AC82-523D4C65EBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71078483-F06A-4EBA-BC11-842D26DF3ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71078483-F06A-4EBA-BC11-842D26DF3ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71078483-F06A-4EBA-BC11-842D26DF3ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71078483-F06A-4EBA-BC11-842D26DF3ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE8F6C3-BC67-4C40-9113-67769AEDF676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE8F6C3-BC67-4C40-9113-67769AEDF676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE8F6C3-BC67-4C40-9113-67769AEDF676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE8F6C3-BC67-4C40-9113-67769AEDF676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

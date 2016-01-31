@@ -1,0 +1,61 @@
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.Migration.dll
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.Migration.pdb
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\Activity.Framework.dll
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\log4net.dll
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\Microsoft.IdentityModel.dll
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\Xrm.Utility.dll
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\Activity.Framework.pdb
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\Xrm.Utility.pdb
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\log4net.xml
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\obj\Debug\Xrm.Solution.Migration.csprojResolveAssemblyReference.cache
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\obj\Debug\Xrm.Solution.Migration.dll
+C:\Root\RESEARCH\XrmLog4NetConsoleApplication\Xrm.Solution.Migration\obj\Debug\Xrm.Solution.Migration.pdb
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.Migration.dll
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.Migration.pdb
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\bin\Debug\log4net.dll
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\bin\Debug\Microsoft.IdentityModel.dll
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.MEF.dll
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.MEF.pdb
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\bin\Debug\log4net.xml
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\obj\Debug\Xrm.Solution.Migration.csprojResolveAssemblyReference.cache
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\obj\Debug\Xrm.Solution.Migration.dll
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\obj\Debug\Xrm.Solution.Migration.pdb
+C:\Root\RESEARCH\Solution Migration\Xrm.Solution.Migration\bin\Debug\Microsoft.Pfe.Xrm.Core.dll
+C:\Temp\Reasearch\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.Migration.dll
+C:\Temp\Reasearch\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.Migration.pdb
+C:\Temp\Reasearch\Xrm.Solution.Migration\bin\Debug\log4net.dll
+C:\Temp\Reasearch\Xrm.Solution.Migration\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Temp\Reasearch\Xrm.Solution.Migration\bin\Debug\Microsoft.IdentityModel.dll
+C:\Temp\Reasearch\Xrm.Solution.Migration\bin\Debug\Microsoft.Pfe.Xrm.Core.dll
+C:\Temp\Reasearch\Xrm.Solution.Migration\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Temp\Reasearch\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.MEF.dll
+C:\Temp\Reasearch\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.MEF.pdb
+C:\Temp\Reasearch\Xrm.Solution.Migration\bin\Debug\log4net.xml
+C:\Temp\Reasearch\Xrm.Solution.Migration\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Temp\Reasearch\Xrm.Solution.Migration\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Temp\Reasearch\Xrm.Solution.Migration\obj\Debug\Xrm.Solution.Migration.csprojResolveAssemblyReference.cache
+C:\Temp\Reasearch\Xrm.Solution.Migration\obj\Debug\Xrm.Solution.Migration.dll
+C:\Temp\Reasearch\Xrm.Solution.Migration\obj\Debug\Xrm.Solution.Migration.pdb
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.Components.dll
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.Components.pdb
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\bin\Debug\log4net.dll
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\bin\Debug\Microsoft.IdentityModel.dll
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\bin\Debug\Microsoft.Pfe.Xrm.Core.dll
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.MEF.dll
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\bin\Debug\Xrm.Solution.MEF.pdb
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\bin\Debug\log4net.xml
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\obj\Debug\Xrm.Solution.Migration.csprojResolveAssemblyReference.cache
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\obj\Debug\Xrm.Solution.Components.dll
+C:\Github\Reasearch\XrmDiffReport\Xrm.Solution.Migration\obj\Debug\Xrm.Solution.Components.pdb
